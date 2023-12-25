@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi I'm Hakan ✌️
 
-<!--
-**HakanKaraoglu/HakanKaraoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Job
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Senior Software Developer.
+
+## Contact Me 📫
+
+You can find and get touch with me on these accounts!
+
+[![Linkedin Badge](https://img.shields.io/badge/HAKAN-FOLLOW%20ON%20LINKEDIN-blue)](https://www.linkedin.com/in/hakan-karaoglu-a000913b//)
+  
